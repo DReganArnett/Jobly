@@ -1,0 +1,155 @@
+body {
+  color:midnightblue;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: bisque;
+}
+
+.Navbar {
+  text-align: center;
+  margin-right: 30px;
+  margin-left: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.Home {
+  color: midnightblue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.Home-container {
+  margin-top: 100px;
+}
+
+.LoginForm-container {
+  background-color: gainsboro;
+  margin: auto;
+  margin-top: 40px;
+  border: 3px groove midnightblue;
+  width: 500px;
+  text-align: center;
+  border-radius: 7px;
+  padding-bottom: 20px;
+}
+
+.SearchForm-container {
+  text-align: center;
+  width: 220px;
+  border-radius: 7px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.SignupForm-container {
+  background-color: gainsboro;
+  margin: auto;
+  text-align: center;
+  width: 500px;
+  border: 3px groove midnightblue;
+  text-align: center;
+  border-radius: 7px;
+  padding-bottom: 20px;
+}
+
+.Header {
+  color: midnightblue;
+  text-align: left;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: large;
+  border-top: 3px groove midnightblue;
+  border-bottom: 3px groove midnightblue;
+  margin-bottom: 50px;
+  padding-bottom: 10px;
+}
+
+.Header-h1 {
+  margin-left: 20px;
+}
+
+.Header-h3 {
+  margin-left: 20px;
+}
+
+button {
+  color: midnightblue;
+  background-color: beige;
+  border-radius: 7px;
+  border: 2px groove midnightblue;
+}
+
+input {
+  border-radius: 7px;
+  border: 2px groove midnightblue;
+}
+
+.Profile-container {
+  margin: auto;
+  text-align: center;
+  width: 500px;
+  text-align: center;
+}
+
+.ProfileForm {
+  background-color: gainsboro;
+  margin: auto;
+  text-align: center;
+  width: 500px;
+  border: 3px groove midnightblue;
+  border-radius: 7px;
+  padding-bottom: 20px;
+}
+
+.Alert {
+  background-color: lightcoral;
+  margin: auto;
+  margin-bottom: 5px;
+  text-align: center;
+  width: 300px;
+  border: 3px groove midnightblue;
+  text-align: center;
+  border-radius: 7px;
+  padding-bottom: 5px;
+}
+
+.CompanyCard {
+  margin-bottom: 50px;
+  border-bottom: 2px groove midnightblue;
+}
+
+.JobCard {
+  width: 300px;
+  text-align: left;
+  margin-bottom: 50px;
+  border-bottom: 2px groove midnightblue;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.CompanyDetail-job {
+  width: 220px;
+  text-align: left;
+  border-top: 1px groove midnightblue;
+  border-bottom: 1px groove midnightblue;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.CompanyJobCard {
+  width: 300px;
+  text-align: left;
+  margin-bottom: 50px;
+  border-bottom: 2px groove midnightblue;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+
+
+
+
